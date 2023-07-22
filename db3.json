@@ -1,0 +1,39 @@
+{
+  "stands": [
+    {
+      "id": "1",
+      "title": "Mukula Traditional Authority",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Stands available at Mukula Mukondeni Village. Please approach the royal house opposite Mukula Clinic",
+      "price3": "8000"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!",
+      "price3": "8000"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!",
+      "price3": "8000"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!",
+      "price3": "8000"
+    },
+    {
+      "id": 5,
+      "title": "Mukula",
+      "datetime": "July 20, 2023 9:54:05 AM",
+      "price3": "500",
+      "body": "6000 stands available Mukula Mukondeni. Royal House is opposite clinic. Vhakoma Miriiyavhavha ,082567893"
+    }
+  ]
+}
